@@ -8,6 +8,9 @@
   
 
 ### Connect with me:
+
+- Gmail: ravindranathkumbhar5281@gmail.com
+  
 <div id="badges">
   <a href="https://www.linkedin.com/in/ravi-r-kumbhar/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=LinkedIn&logoColor=white" alt="LinkedIn Badge"/>
