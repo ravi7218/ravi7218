@@ -15,18 +15,26 @@
   <a href="https://www.linkedin.com/in/ravi-r-kumbhar/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=LinkedIn&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="ravindranathkumbhar5281@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
-  </a>
 </div>
 
 
 ### Languages and Tools:
-[![My Skills](https://skillicons.dev/icons?i=python,excel,powerbi,tableau,pandas,numpy,sql,django,vscode)](https://skillicons.dev)
+
+<div id="badges">
+  <img src="https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python&logoColor=white" alt="Python Badge"/>
+  <img src="https://img.shields.io/badge/Django-green?style=for-the-badge&logo=django&logoColor=white" alt="Django Badge"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas Badge"/>
+  <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="Numpy Badge"/>
+  <img src="https://img.shields.io/badge/Seaborn-000000?style=for-the-badge&logo=seaborn&logoColor=white" alt="Seaborn Badge"/>
+  <br> <!-- Line break for the next line -->
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sql&logoColor=white" alt="SQL Badge"/>
+  <img src="https://img.shields.io/badge/Power_BI-yellow?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI Badge"/>
+  <img src="https://img.shields.io/badge/Tableau-blue?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau Badge"/>
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Excel Badge"/>
+  <img src="https://img.shields.io/badge/Matplotlib-005B96?style=for-the-badge&logo=matplotlib&logoColor=white" alt="Matplotlib Badge"/>
+
+</div>
 
 
-
-
-<br>
 
 
