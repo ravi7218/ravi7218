@@ -7,9 +7,8 @@
 - 🤝 Open to collaborating on impactful projects in sales analytics, customer insights, and operational efficiency.
 - 💡 Focused on advanced visualization techniques and optimizing processes for actionable insights from complex data.
 - 💬 Ask me about my experiences with SQL, Power BI, Python libraries, and my latest data analytics projects.
-- 🌱 Currently learning machine learning, deep learning, and enhancing skills AI.
+- 🌱 Currently learning machine learning, deep learning, and enhancing skills in AI.
   
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ravi7218&label=Profile%20views&color=0e75b6&style=flat" alt="ravi7218" /> </p>
 
 ### Connect with me:
 
