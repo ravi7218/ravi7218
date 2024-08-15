@@ -1,11 +1,15 @@
  <h1 align="center">Hi 👋, I'm Ravindranath Kumbhar </h1>
 
-- 🛠️ Refining my skills in Data Analytics through hands-on projects involving data visualization, SQL queries, and real-time data analysis.
-- 🤝 I’m eager to collaborate on impactful data analytics projects, particularly those centered around sales analytics, customer insights, and operational efficiency.
-- 💡 Exploring advanced data visualization techniques and optimizing analytical processes to derive actionable insights from complex datasets.
-- 💬 Feel free to ask me about my experiences with SQL, Power BI, Python libraries (Pandas, NumPy), and my latest data analytics projects and initiatives.
-- 🌱 I’m currently learning machine learning, deep learning, and enhancing my proficiency in tools like Power BI and Tableau.
+ <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+
+
+- 🔧 Sharpening my Data Analytics skills through hands-on projects with data visualization, SQL, and real-time analysis.
+- 🤝 Open to collaborating on impactful projects in sales analytics, customer insights, and operational efficiency.
+- 💡 Focused on advanced visualization techniques and optimizing processes for actionable insights from complex data.
+- 💬 Ask me about my experiences with SQL, Power BI, Python libraries, and my latest data analytics projects.
+- 🌱 Currently learning machine learning, deep learning, and enhancing skills AI.
   
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ravi7218&label=Profile%20views&color=0e75b6&style=flat" alt="ravi7218" /> </p>
 
 ### Connect with me:
 
